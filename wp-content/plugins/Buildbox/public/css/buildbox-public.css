@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.bb-like-dislike-wrap {
+    display: flex;
+    gap: 15px;
+}
+.bb-like-trigger{
+    text-decoration: none;
+}
+.bb-dislike-trigger{
+    text-decoration: none;
+}
+.bb-undo-trigger{
+    color: green;
+}
+.badge{
+    background-color: #0c88b4 !important;
+}

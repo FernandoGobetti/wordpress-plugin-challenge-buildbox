@@ -1,0 +1,69 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.bb-settings-section-wrap {
+    background: #fff;
+    min-height: 370px;
+    margin-top: 20px;
+    padding:20px
+}
+.bb-clear {
+    clear: both;
+}
+.bb-field-wrap {
+    margin-bottom: 20px;
+}
+.bb-field-wrap > label {
+    display: inline-block;
+    font-weight: 500;
+    width: 250px;
+    vertical-align: top;
+}
+.bb-field {
+    display: inline-block;
+}
+.bb-each-template-preview {
+    margin-top: 20px;
+}
+.bb-field input[type="text"] {
+    width: 500px;
+}
+span.bb-avatar-holder img {
+    border: 2px solid #f1f1f1;
+    margin-top: -1px;
+    margin-right: -1px;
+}
+.bb-header h3{color:#fff;}
+.bb-info-wrap {
+    background: #257924;
+    color: #fff;
+    position: fixed;
+    top: 32px;
+    left: 45%;
+    padding: 10px;
+}
+img.bb-loader {
+    margin-right: 10px;
+    vertical-align: middle;
+    margin-top: -3px;
+}
+.bb-close-info {
+    margin-left: 20px;
+    cursor: pointer;
+}
+.bb-settings-section-wrap pre {
+    border-left: 5px solid #258ef7;
+    background: #eee;
+    padding: 5px;
+}
+label.bb-checkbox-label {
+    display: block;
+    margin-bottom: 10px;
+}
+.bb-header {
+    background: #00a0d2;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+.bb-header h3{color:#fff;}
